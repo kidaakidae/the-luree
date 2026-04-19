@@ -100,7 +100,7 @@ const PROJECTS: Project[] = [
 const ARTISTS_CV = [
   {
     name: { zh: "任若溪", en: "Ren Ruoxi" },
-    image: "https://i.postimg.cc/Gp2yxFxC/tu-pian1.png",
+    image: "https://i.postimg.cc/8Cyq26jk/333333.png",
     contact: {
       email: "roxieren1997@gmail.com",
       instagram: "loverroxieren"
@@ -151,7 +151,7 @@ const ARTISTS_CV = [
   },
   {
     name: { zh: "薛珺", en: "Xue Jun" },
-    image: "https://i.postimg.cc/90t0h0Y8/tu-pian3.png",
+    image: "https://i.postimg.cc/hjj2TZ4L/WPS-tu-pian-(1).png",
     contact: {
       email: "junxue0913@163.com",
       instagram: "xuejune0913",
@@ -587,7 +587,7 @@ export default function App() {
                 {/* Artist Duo Section */}
                 <div className="pt-12 grid grid-cols-1 md:grid-cols-12 gap-12 items-start">
                   {/* Left: Joint Photo (Grayscale) */}
-                  <div className="md:col-span-7">
+                  <div className="md:col-span-7 md:mt-[122px]">
                     <img 
                       src={ARTIST_DUO.image} 
                       alt={ARTIST_DUO.name.en} 
