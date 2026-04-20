@@ -100,7 +100,7 @@ const PROJECTS: Project[] = [
 const ARTISTS_CV = [
   {
     name: { zh: "任若溪", en: "Ren Ruoxi" },
-    image: "https://i.postimg.cc/8Cyq26jk/333333.png",
+    image: "https://i.postimg.cc/QM0h90sf/wei-xin-tu-pian-20260420130435.jpg",
     contact: {
       email: "roxieren1997@gmail.com",
       instagram: "loverroxieren"
@@ -151,7 +151,7 @@ const ARTISTS_CV = [
   },
   {
     name: { zh: "薛珺", en: "Xue Jun" },
-    image: "https://i.postimg.cc/hjj2TZ4L/WPS-tu-pian-(1).png",
+    image: "https://i.postimg.cc/wxPxQfNV/wei-xin-tu-pian-20260420130222.jpg",
     contact: {
       email: "junxue0913@163.com",
       instagram: "xuejune0913",
